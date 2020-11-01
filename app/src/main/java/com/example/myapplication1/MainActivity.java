@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(tag, "SORTING");
 
         List<Integer> list = new ArrayList<>();
-        list.add(9);
+//        list.add(9);
         list.add(14);
         list.add(7);
         list.remove(Integer.valueOf(14));
